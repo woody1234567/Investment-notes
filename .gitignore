@@ -1,0 +1,3 @@
+# Ignore VitePress build and cache directories
+.vitepress/cache
+.vitepress/dist
