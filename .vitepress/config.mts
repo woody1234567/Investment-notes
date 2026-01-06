@@ -18,6 +18,18 @@ export default defineConfig({
           { text: "Markdown Examples", link: "/markdown-examples" },
           { text: "Runtime API Examples", link: "/api-examples" },
           { text: "Relative Strength Index(RSI)", link: "/investment/rsi/rsi" },
+          {
+            text: "Capital Reduction",
+            link: "/investment/capital_reduction/capital_reduction",
+          },
+          {
+            text: "DMI",
+            link: "/investment/dmi/dmi",
+          },
+          {
+            text: "Gap",
+            link: "/investment/gap/gap",
+          },
         ],
       },
     ],
