@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "https://investment.studywithwoody.site/",
-  srcDir: "./",
+  // base: "https://investment.studywithwoody.site/",
+  // srcDir: "./",
   title: "Woody's investment notes",
   description: "Establishing financial mindset.",
   themeConfig: {
