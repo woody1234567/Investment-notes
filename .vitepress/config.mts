@@ -4,21 +4,24 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   // base: "https://investment.studywithwoody.site/",
   // srcDir: "./",
-  title: "Woody's investment notes",
-  description: "Establishing financial mindset.",
+  title: "Woody's blog",
+  description: "Record my thoughts.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Examples", link: "/examples" },
+      { text: "Investment", link: "/investment" },
+      { text: "Education", link: "/education" },
+      { text: "Tech", link: "/tech" },
     ],
 
     sidebar: [
       {
         text: "Examples",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Markdown Examples", link: "/examples/markdown-examples" },
+          { text: "Runtime API Examples", link: "/examples/api-examples" },
         ],
       },
       {
@@ -38,6 +41,14 @@ export default defineConfig({
             link: "/investment/gap/",
           },
         ],
+      },
+      {
+        text: "Education",
+        items: [{ text: "Education", link: "/education" }],
+      },
+      {
+        text: "Tech",
+        items: [{ text: "Tech", link: "/tech" }],
       },
     ],
 

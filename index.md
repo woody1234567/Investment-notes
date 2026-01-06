@@ -3,23 +3,27 @@
 layout: home
 
 hero:
-  name: "Woody's investment notes"
-  text: "Establishing financial mindset."
-  tagline: My great project tagline
+  name: "Woody's blog"
+  text: "Record my thoughts."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Examples
+      link: /examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Investment
+      link: /investment
+    - theme: alt
+      text: Education
+      link: /education
+    - theme: alt
+      text: Tech
+      link: /tech
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Investment
+    details: Some investment notes.
+  - title: Education
+    details: Some educational thoughts.
+  - title: Tech
+    details: Some tech notes.
 ---
-
