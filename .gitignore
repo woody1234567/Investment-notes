@@ -2,3 +2,6 @@
 .vitepress/cache
 .vitepress/dist
 node_modules
+
+# Ignore environment variables
+.env
