@@ -19,6 +19,11 @@ export default defineConfig({
         items: [
           { text: "Markdown Examples", link: "/markdown-examples" },
           { text: "Runtime API Examples", link: "/api-examples" },
+        ],
+      },
+      {
+        text: "Investment",
+        items: [
           { text: "Relative Strength Index(RSI)", link: "/investment/rsi/" },
           {
             text: "Capital Reduction",
