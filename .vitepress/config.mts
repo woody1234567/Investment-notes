@@ -46,10 +46,6 @@ export default defineConfig({
         text: "Education",
         items: [{ text: "Education", link: "/education" }],
       },
-      {
-        text: "Tech",
-        items: [{ text: "Tech", link: "/tech" }],
-      },
     ],
 
     socialLinks: [
