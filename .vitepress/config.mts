@@ -13,7 +13,6 @@ export default defineConfig({
       { text: "Examples", link: "/examples" },
       { text: "Investment", link: "/investment" },
       { text: "Education", link: "/education" },
-      { text: "Tech", link: "/tech" },
     ],
 
     sidebar: [

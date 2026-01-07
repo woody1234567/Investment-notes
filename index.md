@@ -15,9 +15,6 @@ hero:
     - theme: alt
       text: Education
       link: /education
-    - theme: alt
-      text: Tech
-      link: /tech
 
 features:
   - title: Investment
