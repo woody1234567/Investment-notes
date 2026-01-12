@@ -39,6 +39,14 @@ export default defineConfig({
             text: "Gap",
             link: "/investment/gap/",
           },
+          {
+            text: "Ordering",
+            link: "/investment/ordering/",
+          },
+          {
+            text: "Credit Order",
+            link: "/investment/credit_order/",
+          },
         ],
       },
       {

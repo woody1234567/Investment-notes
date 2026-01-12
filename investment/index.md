@@ -16,3 +16,5 @@
 - [動向指標 (DMI)](./dmi/index.md)
 - [缺口 (Gap)](./gap/index.md)
 - [相對強弱指標 (RSI)](./rsi/index.md)
+- [下單方式 (Ordering)](./ordering/index.md)
+- [融資 (Credit Order)](./credit_order/index.md)
