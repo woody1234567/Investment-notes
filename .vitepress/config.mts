@@ -55,8 +55,9 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/woody1234567" }],
+    footer: {
+      copyright: "Copyright © 2026-present StudyWithWoody",
+    },
   },
 });
