@@ -4,23 +4,10 @@ layout: home
 
 hero:
   name: "Woody's blog"
-  text: "Record my thoughts."
+  text: "Record my learning notes on investment."
+  tagline: "follow me to learn investment"
   actions:
-    - theme: brand
-      text: Examples
-      link: /examples
     - theme: alt
       text: Investment
       link: /investment
-    - theme: alt
-      text: Education
-      link: /education
-
-features:
-  - title: Investment
-    details: Some investment notes.
-  - title: Education
-    details: Some educational thoughts.
-  - title: Tech
-    details: Some tech notes.
 ---
